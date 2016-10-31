@@ -1,0 +1,47 @@
+*{
+   margin:0;
+   padding:0;
+}
+body{
+    margin:0 auto;
+   font-family:'Julius Sans One', sans-serif;
+}
+.container{
+margin-left:15%;
+}
+section{
+    width:300px;
+    border:1px solid gray;
+    background-color:lightyellow;
+    margin-top:10%;
+}
+p{
+font-family:;
+text-align:center;
+padding:30px;
+color:hotpink;
+    
+}
+.main{    
+    width:260px;
+    margin-left:20px;
+    height:150px;
+    background-image: url("http://tj-prod-media.s3.amazonaws.com/2012/08/11594-free-printable-scrapbooking-paper-in-pale-pink-butterflies-little-stars-polka-dot-and-plaid.png");
+    border:1px solid gray;
+
+}
+input{
+    margin-left:15px;
+    height:100px;
+    width:270px;
+    margin-top:15px;
+}
+button{
+    padding:5px;
+    margin:10px;
+    margin-left:75%;
+    background-color:papayawhip;
+    border-radius:5px;
+    color:hotpink;
+    font-family: 'Julius Sans One', sans-serif;
+}
